@@ -5,8 +5,11 @@ arguments
 ---------
 Arguments are the value that we passes inside the parenthesis of a function or class.
 
-> Insert Picture Here\
-[![LP-naming-files](link goes here)]()
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/rodrez/LearningPython/blob/master/LP%20PT1/Images/LP-game-over.png">
+</p>
+
 
 function
 --------

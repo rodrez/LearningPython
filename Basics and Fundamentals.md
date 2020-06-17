@@ -14,9 +14,10 @@ Saving a Python program
 When we are done typing our statements and our code looks beautiful and perfect we need to save the file in order to run our program.
 We can name the file whatever we want. However, its necessary that we name the extension `.py` for example. `myawesomeprogram.py`. See the picture below for reference.
 
-> Insert Picture
+<p align="center">
+  <img width="460" height="300" src="https://github.com/rodrez/LearningPython/blob/master/LP%20PT1/Images/LP-naming-files.png">
+</p>
 
-[![LP-naming-files](link goes here)]()
 
 
 Running a Python program
