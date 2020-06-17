@@ -6,7 +6,10 @@ Welcome to Python Programming Basics and Fundamentals
 
 You may notice a lot of gaming lines. We are trying to make this fun because boring is...
 
-[![LP-naming-files](https://github.com/rodrez/LearningPython/blob/master/LP%20PT1/Images/not.jpg)]()
+<p align="center">
+  <img width="460" height="300" src="https://github.com/rodrez/LearningPython/blob/master/LP%20PT1/Images/not.jpg">
+</p>
+
 
 
 Saving a Python program
