@@ -4,9 +4,9 @@ Basics and Fundamentals
 Welcome to Python Programming Basics and Fundamentals 
 -----------------------------------------------------
 
-You may notice a lot of gaming lines. We are trying to make this fun because boring is..
+You may notice a lot of gaming lines. We are trying to make this fun because boring is...
 
-[![LP-naming-files](link goes here)]()
+[![LP-naming-files](https://github.com/rodrez/LearningPython/blob/master/LP%20PT1/Images/not.jpg)]()
 
 
 Saving a Python program
