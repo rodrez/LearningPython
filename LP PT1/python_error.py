@@ -1,8 +1,8 @@
 primt('War. War never changes.')
 
 # Computers takes everything literally 
-# So if you mispell any functions the program will give you an error.
-# Given the statement above we can notice that print() is mispelled. 
+# So if you misspell any functions the program will give you an error.
+# Given the statement above we can notice that print() is misspelled. 
 # So the computer is like Huh?! What is that suppose to mean?
 
 # Arguably the most important line in the error output would be,
