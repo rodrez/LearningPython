@@ -12,3 +12,4 @@ print("It's time to kick ass and chew bubblegum... and I'm all outta gum. - Duke
 # By default the print function adds a new line as the final value. However you can change the final value by using the end=''
 # In the example below we use -Ezio as an example however, you can even pass nothing, or whatever you want.
 print('Nothing is true, everything is permitted.', end=' -Ezio')
+
