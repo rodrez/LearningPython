@@ -1,9 +1,8 @@
 
 <p align="center">
-  <img width="460" height="300" src="http://rodrez.com"><img src="https://avatars2.githubusercontent.com/u/59518782?s=460&u=2c07be30567a97fc1e3585f827f2d39c8c5bbb2a&v=4?s=200">
+  <img src="https://avatars2.githubusercontent.com/u/59518782?s=460&u=2c07be30567a97fc1e3585f827f2d39c8c5bbb2a&v=4?s=200">
 </p>
 
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
