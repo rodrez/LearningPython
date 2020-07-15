@@ -1,5 +1,10 @@
-Data Types and Variables 
+Data Types and Variables
 ========================
+
+Intro
+-----
+
+Now that we are professional programmers and can hack Facebook and printers for our cousins and aunties (just kidding). It's a great time to learn more about how computers can categorize, store and use this data. We will also learn how to get input from the user and use that input to interact with our programs.
 
 Strings
 -------
@@ -11,13 +16,21 @@ We can use escape sequence but more on that later 😛
 Escape Sequences
 ----------------
 
-Escape sequences allows us to be more flexible whenever we want to use special character in a string. Normally an escape sequence is a combination of 2 charcters a backslash and another character, for example: `\n` which inserts an additional line or "enter".
+Escape sequences allows us to be more flexible whenever we want to use special character in a string. Normally an escape sequence is a combination of 2 characters a backslash and another character, for example: `\n` which inserts an additional line or "enter".
 
-There are various escape sequences wwe can use with Python below are a few:
+There are various escape sequences we can use with Python below are a few:
 
-- `\\` - displays only one backslash. Why? Becuase the backslash is a special character in Python. In order to print a backslash we need to "escape" the backslash with another one.
+- `\\` - displays only one backslash. Why? Because the backslash is a special character in Python. In order to print a backslash we need to "escape" the backslash with another one.
 
 - `\'` - displays single quote even if you started the string with single quotes
--  `\"` - just like the one above but with double quotes 😄
+- `\"` - just like the one above but with double quotes 😄
 - `\n` - Our old friend the new line! Pretty simple adds a new line.
 - `\t` - adds a horizontal tab. Moves the cursor forwards one tab.
+
+Number Types
+------------
+
+Python allows us to use different types of numbers, and two of the most common are called "floats" and "integers"
+
+- floats - are any numbers that have a decimal point and their key word is `float`
+- integers - are any numbers that DO NOT have decimal points.

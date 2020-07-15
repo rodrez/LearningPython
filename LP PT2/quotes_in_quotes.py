@@ -1,5 +1,5 @@
 # Using Quotes Examples
-# A friendly reminder that quotes tells the computer where does the string start and where does it ends.
+# A friendly reminder that quotes tells the computer where does the string start and where does it ends 🦾.
 
 print("Get over here! - Scorpion MK \n")
 
